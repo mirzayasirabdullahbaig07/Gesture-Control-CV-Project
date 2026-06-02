@@ -4,6 +4,7 @@ Real-time hand gesture drawing using Python + OpenCV + MediaPipe
 ## ⚡ Quick Setup
 
 ### Step 1 — Install Python 3.11
+
 Download from: https://www.python.org/downloads/release/python-3119/
 ✅ CHECK "Add Python to PATH" during install
 
